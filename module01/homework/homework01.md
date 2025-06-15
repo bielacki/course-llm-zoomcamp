@@ -360,7 +360,7 @@ CONTEXT:
 prompt = build_prompt(query, results)
 
 print(prompt)
-print((prompt))
+print(len(prompt))
 ```
 
 Output:

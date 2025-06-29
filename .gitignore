@@ -1,3 +1,6 @@
 .venv
 .env
 .DS_Store
+
+# Qdrant files
+qdrant_storage/

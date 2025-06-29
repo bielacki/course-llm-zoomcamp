@@ -185,7 +185,7 @@ to ignore it.
 
 ### Solution:
 
-[link](/homework/hw02-03.ipynb)
+[link](hw02-03.ipynb)
 
 ### Answer 3
 
@@ -213,7 +213,7 @@ Is it different from Q3? If yes, why?
 
 ### Solution:
 
-[link](/homework/hw02-04.ipynb)
+[link](hw02-04.ipynb)
 
 ### Answer 4
 
@@ -233,7 +233,7 @@ One of these models is `BAAI/bge-small-en`. Let's use it.
 
 ### Solution:
 
-[link](/homework/hw02-05.ipynb)
+[link](hw02-05.ipynb)
 
 ### Answer 5
 
@@ -285,7 +285,7 @@ What's the highest score in the results?
 
 ### Solution:
 
-[link](/homework/hw02-06.ipynb)
+[link](hw02-06.ipynb)
 
 ### Answer 6
 

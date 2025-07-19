@@ -2,5 +2,8 @@
 .env
 .DS_Store
 
+# Python files
+__pycache__/
+
 # Qdrant files
 qdrant_storage/

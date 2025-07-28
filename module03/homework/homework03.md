@@ -185,7 +185,7 @@ What's the hitrate?
 
 ## Answer 3:
 
-0.3573085512571141
+0.8210503566025502
 
 ## Q4. Qdrant
 
